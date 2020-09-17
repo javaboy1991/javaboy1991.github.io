@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/repository/index.html</loc>
-    
-    <lastmod>2020-09-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2020-09-17</lastmod>
@@ -23,7 +16,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/repository/index.html</loc>
+    
+    <lastmod>2020-09-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2020-09-17</lastmod>
     
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2020-09-17</lastmod>
     
